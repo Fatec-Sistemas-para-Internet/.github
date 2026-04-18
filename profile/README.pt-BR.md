@@ -1,3 +1,5 @@
+🌍 *Leia em outros idiomas: [English](README.md)*
+---
 # Fatec – Sistemas para Internet
 
 Organização criada por [@HelloAkiraS](https://github.com/HelloAkiraS) para centralizar os exercícios e atividades de programação desenvolvidos ao longo do curso de [Sistemas para Internet](https://fatecrl.edu.br/cursos/sistemas-para-internet) da [Fatec Baixada Santista Rubens Lara](https://fatecrl.edu.br). O objetivo principal é manter o repositório pessoal organizado, reunindo aqui os pequenos projetos feitos em aula — desde estruturas de dados até desenvolvimento web e orientação a objetos.
